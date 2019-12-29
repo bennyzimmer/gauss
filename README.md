@@ -1,6 +1,6 @@
 # Resolução de sistema linear
 
-Implementação da resolução de um sistema linear utilizando o método de Gauss com pivoteamento.
+Implementação da resolução de um sistema linear utilizando o método  de Gauss Jacobi ou Gauss Seidel.
 
 ## Como utilizar
 

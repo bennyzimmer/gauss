@@ -127,7 +127,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>Método de Jacobi</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css" />
+      <link rel="stylesheet" type="text/css" media="screen" href="../assets/css/bootstrap.css" />
   </head>
   <body class="p-5">
     <div class="container-fluid">
@@ -208,6 +208,6 @@
     ?>
 
     </div>
-    <script href="js/bootstrap.min.js"></script>
+    <script href="../assets/js/bootstrap.min.js"></script>
   </body>
 </html>
